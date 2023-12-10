@@ -1,1 +1,1 @@
-https://sibvito.github.io/test-cv/cv
+https://sibvito.github.io/test-cv/
